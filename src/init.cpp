@@ -366,7 +366,7 @@ bool AppInit2()
 
     // ********************************************************* Step 2: parameter interactions
 
-    SoftSetArg("-addnode", "dtaler.redirectme.net");
+    SoftSetArg("-addnode", "dtaler.redirectme.net:25506");
 
     nNodeLifespan = GetArg("-addrlifespan", 7);
     fUseFastIndex = GetBoolArg("-fastindex", true);
