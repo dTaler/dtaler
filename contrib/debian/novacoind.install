@@ -1,0 +1,2 @@
+debian/bin/dTalerd usr/bin
+src/dTalerd usr/lib/dTaler

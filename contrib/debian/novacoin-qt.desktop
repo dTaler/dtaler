@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=dTaler
+Comment=dTaler P2P Cryptocurrency
+Comment[fr]=dTaler, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=dTaler, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/dTaler-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/dTaler;
+Categories=Office;
